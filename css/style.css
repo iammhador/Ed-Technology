@@ -54,3 +54,9 @@ footer a:hover {
   background-color: #ffffff;
   color: #289bde;
 }
+.btn-reg {
+  background-color: transparent;
+  color: #289bde;
+  border: 1px solid #289bde;
+  border-radius: 5px;
+}
