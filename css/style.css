@@ -44,3 +44,13 @@ footer p {
 footer a:hover {
   color: #289bde;
 }
+.card h3 {
+  padding-top: 30%;
+}
+.reg {
+  background-color: #289bde;
+}
+.regnow button {
+  background-color: #ffffff;
+  color: #289bde;
+}
