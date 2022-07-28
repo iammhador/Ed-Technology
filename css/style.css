@@ -1,0 +1,38 @@
+/* Bootstrap Custom CSS:- Start */
+body {
+  font-family: "Poppins", sans-serif;
+}
+#parragraph {
+  color: #777777;
+}
+a,
+a:hover {
+  text-decoration: none;
+  color: #289bde;
+}
+
+.brightness {
+  filter: brightness(55%);
+}
+.border-color {
+  border: 1px solid #e8e8e8;
+}
+.course h3 {
+  color: #4a4a4a;
+}
+.course a {
+  color: #289bde;
+}
+.color h3 {
+  color: #ffffff;
+}
+.color a {
+  color: #e8e8e8;
+}
+.btn-color {
+  background-color: #289bde;
+  color: #ffffff;
+}
+footer p {
+  color: #e8e8e8;
+}
