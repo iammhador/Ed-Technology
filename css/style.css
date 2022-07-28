@@ -5,10 +5,15 @@ body {
 #parragraph {
   color: #777777;
 }
+#carousel-caption-parragraph {
+  color: #f4f4f4;
+}
+#faq-parragraph {
+  color: #777777;
+}
 a,
 a:hover {
   text-decoration: none;
-  color: #289bde;
 }
 
 .brightness {
@@ -35,4 +40,7 @@ a:hover {
 }
 footer p {
   color: #e8e8e8;
+}
+footer a:hover {
+  color: #289bde;
 }
