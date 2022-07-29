@@ -60,3 +60,36 @@ footer a:hover {
   border: 1px solid #289bde;
   border-radius: 5px;
 }
+@media screen and (max-width: 677px) {
+  .trusted {
+    display: none;
+  }
+  .card h3 {
+    padding-top: 0;
+  }
+  .carousel-caption .fs-1 {
+    font-size: 20px !important;
+    padding-top: 10%;
+    margin-bottom: 0;
+  }
+  .carousel-caption .fs-6 {
+    font-size: 12px !important;
+    margin-bottom: 0 !important;
+  }
+  .carousel-caption .btn {
+    font-size: 12px !important;
+    padding: 4px 8px !important;
+  }
+}
+@media screen and (min-width: 678px) and (max-width: 1024px) {
+  .trusted {
+    display: none;
+  }
+  .carousel-caption {
+    padding-top: 3.25rem;
+    padding-bottom: 0rem;
+  }
+  .card h3 {
+    padding-top: 0%;
+  }
+}
