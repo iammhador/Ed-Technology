@@ -60,6 +60,8 @@ footer a:hover {
   border: 1px solid #289bde;
   border-radius: 5px;
 }
+
+/* Responsive Section:- Start */
 @media screen and (max-width: 677px) {
   .trusted {
     display: none;
@@ -101,3 +103,4 @@ footer a:hover {
     overflow: hidden;
   }
 }
+/* Responsive Section:- End */
